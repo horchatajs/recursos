@@ -1,0 +1,22 @@
+# Recursos HorchataJS
+
+¿No sabés por dónde empezar? ¿Querés seguir mejorando tu conocimiento? Aquí compartimos algunos recursos, herramientas y plataformas recomendados por la comunidad para comenzar o seguir aprendiendo sobre programación.
+
+| Emoji        | Significado  |
+| ------------ |:------------|
+| 🇺🇸           | Contenido en inglés |
+| 💵           | Contenido pagado |
+
+## Sitios
+* [javascript.info](http://javascript.info/) - Temas básicos y avanzados sobre JavaScript con explicación. 🇺🇸
+
+## Libros
+* [Eloquent Javascript](http://eloquentjavascript.net/) - Libros completo sobre JavaScript y programación. 🇺🇸
+
+## Videos
+
+## Recomendaciones o sugerencias
+Si tenés alguna sugerencia de contenido, corrección o idea sobre como mejorar este documento podes crear un [_issue_](https://github.com/horchatajs/guias/issues) con tu comentario o crear un [_pull request_](https://github.com/horchatajs/guias/pulls) con tus recomendaciones.
+
+
+
