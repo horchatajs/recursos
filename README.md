@@ -9,6 +9,7 @@
 
 ## Sitios
 * [javascript.info](http://javascript.info/) - Temas básicos y avanzados sobre JavaScript con explicación. 🇺🇸
+* [30 Seconds of Code](https://30secondsofcode.org/) - Colección de fragmentos cortos de código de JavaScript para aprender.
 
 ## Libros
 * [Eloquent Javascript](http://eloquentjavascript.net/) - Libros completo sobre JavaScript y programación. 🇺🇸
