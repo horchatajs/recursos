@@ -6,6 +6,7 @@
 | ------------ |:------------|
 | 🇺🇸           | Contenido en inglés |
 | 💵           | Contenido pagado |
+| ⭐️           | Contenido recomendado |
 
 ## Sitios
 * [Guía de JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) - Guía general de cómo usar JavaScript.
@@ -13,7 +14,7 @@
 * [30 Seconds of Code](https://30secondsofcode.org/) - Colección de fragmentos cortos de código de JavaScript para aprender. 🇺🇸
 
 ## Plataformas
-* [freeCodeCamp](https://www.freecodecamp.org/) – Videos, artículos, proyectos y lecciones interactivas [para aprender a programar. 🇺🇸
+* [freeCodeCamp](https://www.freecodecamp.org/) – Videos, artículos, proyectos y lecciones interactivas para aprender a programar. 🇺🇸⭐️
 
 ## Libros
 * [Eloquent Javascript](http://eloquentjavascript.net/) - Libros completo sobre JavaScript y programación. 🇺🇸
