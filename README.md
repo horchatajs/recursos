@@ -15,6 +15,7 @@
 
 ## Plataformas
 * [freeCodeCamp](https://www.freecodecamp.org/) – Videos, artículos, proyectos y lecciones interactivas para aprender a programar. 🇺🇸⭐️
+* [Scrimba](https://scrimba.com/) - Cursos sobre desarrollo web en distintas tecnologías, con una interacción distinta a la habitual. 🇺🇸
 
 ## Libros
 * [Eloquent Javascript](http://eloquentjavascript.net/) - Libros completo sobre JavaScript y programación. 🇺🇸
