@@ -20,6 +20,9 @@
 ## Libros
 * [Eloquent Javascript](http://eloquentjavascript.net/) - Libros completo sobre JavaScript y programación. 🇺🇸
 
+## Artículo / Tutoriales
+* [JavaScript Clean Code - Best Practices](https://devinduct.com/blogpost/22/javascript-clean-code-best-practices) - Lista de buenas prácticas al momento de escribir JavaScript.
+
 ## Videos
 
 ## Recomendaciones o sugerencias
