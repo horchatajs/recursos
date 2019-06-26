@@ -17,6 +17,17 @@
 * [freeCodeCamp](https://www.freecodecamp.org/) – Videos, artículos, proyectos y lecciones interactivas para aprender a programar. 🇺🇸⭐️
 * [Scrimba](https://scrimba.com/) - Cursos sobre desarrollo web en distintas tecnologías, con una interacción distinta a la habitual. 🇺🇸
 
+## Tecnología 
+
+### React
+* [Hello World](https://reactjs.org/docs/hello-world.html) - Documentación oficial de React. 🇺🇸⭐️
+* [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react) - Curso sobre fundamentos para aprender React. 🇺🇸⭐️
+* [React Enlightenment](https://www.reactenlightenment.com) - Libro sobre concepto fundamentales para aprender React. 🇺🇸
+* [React Resources](https://reactresources.com/) - Colección de enlaces, libros, tutoriales y artículos relacionados a React. 🇺🇸
+* [Awesome React](https://github.com/enaqx/awesome-react) - Colección de enlaces relacionados al ecosistema de React. 🇺🇸
+* [Reactjs subreddit](https://www.reddit.com/r/reactjs/) - Subreddit de la comunidad de React. 🇺🇸
+* [React for beginners](https://reactforbeginners.com/) - Curso de React para construir aplicaciones del mundo real. 🇺🇸💵
+
 ## Libros
 * [Eloquent Javascript](http://eloquentjavascript.net/) - Libros completo sobre JavaScript y programación. 🇺🇸
 
