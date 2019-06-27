@@ -27,6 +27,7 @@
 * [Awesome React](https://github.com/enaqx/awesome-react) - Colección de enlaces relacionados al ecosistema de React. 🇺🇸
 * [Reactjs subreddit](https://www.reddit.com/r/reactjs/) - Subreddit de la comunidad de React. 🇺🇸
 * [React for beginners](https://reactforbeginners.com/) - Curso de React para construir aplicaciones del mundo real. 🇺🇸💵
+* [Curso de React.js Platzi](https://platzi.com/cursos/react/) -  Curso para desarrollar aplicaciones web de muy alta calidad en tiempo record con React. 💵
 
 ## Libros
 * [Eloquent Javascript](http://eloquentjavascript.net/) - Libros completo sobre JavaScript y programación. 🇺🇸
