@@ -39,6 +39,7 @@
 * [JavaScript Clean Code - Best Practices](https://devinduct.com/blogpost/22/javascript-clean-code-best-practices) - Lista de buenas prácticas al momento de escribir JavaScript. 🇺🇸
 
 ## Videos
+* [JavaScript Basics](https://ultimatecourses.com/learn/javascript-basics) - Curso introductorio a conceptos fundamentales en JavaScript. 🇺🇸
 
 ## Recomendaciones o sugerencias
 Si tenés alguna sugerencia de contenido, corrección o idea sobre como mejorar este documento podes crear un [_issue_](https://github.com/horchatajs/guias/issues) con tu comentario o crear un [_pull request_](https://github.com/horchatajs/guias/pulls) con tus recomendaciones.
