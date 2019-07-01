@@ -19,6 +19,9 @@
 
 ## Tecnología 
 
+### Git
+* [Git - The simple guide](https://rogerdudler.github.io/git-guide/) - Guía práctica para comenzar con Git. 🇺🇸
+
 ### React
 * [Hello World](https://reactjs.org/docs/hello-world.html) - Documentación oficial de React. 🇺🇸⭐️
 * [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react) - Curso sobre fundamentos para aprender React. 🇺🇸⭐️
