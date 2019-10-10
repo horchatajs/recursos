@@ -2,16 +2,14 @@
 
 ¿No sabés por dónde empezar? ¿Querés seguir mejorando tu conocimiento? Aquí compartimos algunos recursos, herramientas y plataformas recomendados por la comunidad para comenzar o seguir aprendiendo sobre programación.
 
-| Emoji        | Significado  |
-| ------------ |:------------|
-| 🇺🇸           | Contenido en inglés |
-| 💵           | Contenido pagado |
-| ⭐️           | Contenido recomendado |
-
 ## Sitios
-* [Guía de JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) - Guía general de cómo usar JavaScript.
-* [javascript.info](http://javascript.info/) - Temas básicos y avanzados sobre JavaScript con explicación. 🇺🇸
-* [30 Seconds of Code](https://30secondsofcode.org/) - Colección de fragmentos cortos de código de JavaScript para aprender. 🇺🇸
+Sitios web de documentación y artículos recomendados para comenzar y/o perfeccionar conocimientos de progarmación web.
+
+| Recurso | Descripción | Idioma | Acceso |
+|---------|-------------|--------|--------|
+| [Documentación web de MDN](https://developer.mozilla.org/es/) | Documentación acerca de tecnologías web abierta incluyendo HTML, CSS, y JavaScript. | Multi-idioma | Gratuito |
+| [javascript.info](http://javascript.info/) | Temas básicos y avanzados sobre JavaScript con explicación. | Inglés | Gratuito |
+| [30 Seconds of Code](https://30secondsofcode.org/) | Colección de fragmentos cortos de código de JavaScript para aprender. | Inglés | Gratuito |
 
 ## Plataformas
 * [freeCodeCamp](https://www.freecodecamp.org/) – Videos, artículos, proyectos y lecciones interactivas para aprender a programar. 🇺🇸⭐️
