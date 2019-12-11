@@ -3,7 +3,7 @@
 ¿No sabés por dónde empezar? ¿Querés seguir mejorando tu conocimiento? Aquí compartimos algunos recursos, herramientas y plataformas recomendados por la comunidad para comenzar o seguir aprendiendo sobre programación.
 
 ## Sitios
-Sitios web de documentación y artículos recomendados para comenzar y/o perfeccionar conocimientos de progarmación web.
+Sitios web de documentación y artículos recomendados para comenzar y/o perfeccionar conocimientos de programación web.
 
 | Recurso | Descripción | Idioma | Acceso |
 |---------|-------------|--------|--------|
@@ -38,6 +38,14 @@ Sitios web de documentación y artículos recomendados para comenzar y/o perfecc
 
 ## Videos
 * [JavaScript Basics](https://ultimatecourses.com/learn/javascript-basics) - Curso introductorio a conceptos fundamentales en JavaScript. 🇺🇸
+
+## Otros
+Sitios web y artículos recomendados con temas relacionados a desarrollo web.
+
+| Recurso | Descripción | Idioma | Acceso |
+|---------|-------------|--------|--------|
+| [How DNS Works](https://howdns.works/) | Una explicación divertida y colorida de cómo funciona DNS. | Inglés | Gratuito |
+| [How HTTP Works](https://howhttps.works/) | Una explicación divertida y colorida de cómo funciona HTTP. | Inglés | Gratuito |
 
 ## Recomendaciones o sugerencias
 Si tenés alguna sugerencia de contenido, corrección o idea sobre como mejorar este documento podes crear un [_issue_](https://github.com/horchatajs/guias/issues) con tu comentario o crear un [_pull request_](https://github.com/horchatajs/guias/pulls) con tus recomendaciones.
