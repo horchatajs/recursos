@@ -37,7 +37,12 @@ Sitios web de documentación y artículos recomendados para comenzar y/o perfecc
 * [JavaScript Clean Code - Best Practices](https://devinduct.com/blogpost/22/javascript-clean-code-best-practices) - Lista de buenas prácticas al momento de escribir JavaScript. 🇺🇸
 
 ## Videos
-* [JavaScript Basics](https://ultimatecourses.com/learn/javascript-basics) - Curso introductorio a conceptos fundamentales en JavaScript. 🇺🇸
+Cursos y recursos en formato de vídeo para aprender sobre programación web.
+
+| Recurso | Descripción | Idioma | Acceso |
+|---------|-------------|--------|--------|
+| [JavaScript Basics](https://ultimatecourses.com/learn/javascript-basics) | Curso introductorio a conceptos fundamentales en JavaScript. | Inglés | Gratuito |
+| [Mastering Next.js](https://masteringnextjs.com/) | Curso gratuito para aprender sobre Next.js. | Inglés | Gratuito |
 
 ## Otros
 Sitios web y artículos recomendados con temas relacionados a desarrollo web.
