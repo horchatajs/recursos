@@ -30,6 +30,11 @@ Sitios web de documentación y artículos recomendados para comenzar y/o perfecc
 * [React for beginners](https://reactforbeginners.com/) - Curso de React para construir aplicaciones del mundo real. 🇺🇸💵
 * [Curso de React.js Platzi](https://platzi.com/cursos/react/) -  Curso para desarrollar aplicaciones web de muy alta calidad en tiempo record con React. 💵
 
+### Angular
+* [Angular](https://angular.io/) - Documentación oficial de Angular.
+* [Angular web.dev](https://web.dev/angular/) - Coleccion de post relacionados al ecosistema Angular
+* [Metamorfosis de Angular](https://ngchallenges.gitbook.io/metamorfosis-de-angular/) - Gitbook con un pequeño inside de Angular
+
 ## Libros
 * [Eloquent Javascript](http://eloquentjavascript.net/) - Libros completo sobre JavaScript y programación. 🇺🇸
 
