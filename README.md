@@ -10,6 +10,7 @@ Sitios web de documentación y artículos recomendados para comenzar y/o perfecc
 | [Documentación web de MDN](https://developer.mozilla.org/es/) | Documentación acerca de tecnologías web abierta incluyendo HTML, CSS, y JavaScript. | Multi-idioma | Gratuito |
 | [javascript.info](http://javascript.info/) | Temas básicos y avanzados sobre JavaScript con explicación. | Inglés | Gratuito |
 | [30 Seconds of Code](https://30secondsofcode.org/) | Colección de fragmentos cortos de código de JavaScript para aprender. | Inglés | Gratuito |
+| [Web skills](https://andreasbm.github.io/web-skills/) | Colección de documentación y posts para mejorar web skills. | Inglés | Gratuito |
 
 ## Plataformas
 * [freeCodeCamp](https://www.freecodecamp.org/) – Videos, artículos, proyectos y lecciones interactivas para aprender a programar. 🇺🇸⭐️
